@@ -1,9 +1,3 @@
-
----
-
-# ✅ README.md
-
-````markdown
 # 🍽️ RestaurantDesign.tech – Modern Restaurant Website Agency
 
 ![Hero Banner](https://via.placeholder.com/1200x400.png?text=Restaurant+Design+Agency+Hero)
@@ -16,8 +10,8 @@ Welcome to **RestaurantDesign.tech**, your ultimate solution for creating **ultr
 
 ### Full Pages Included:
 
-- **Home Page** – Engaging hero, service highlights, portfolio showcase, client testimonials.
-- **About Page** – Agency introduction, mission & vision, team members, process, tools & technologies.
+- **Home Page** – Engaging hero, service highlights, portfolio showcase, client testimonials.  
+- **About Page** – Agency introduction, mission & vision, team members, process, tools & technologies.  
 - **Services Page** – All restaurant-specific services:  
   - Custom Restaurant Website Design  
   - Online Ordering System  
@@ -27,15 +21,15 @@ Welcome to **RestaurantDesign.tech**, your ultimate solution for creating **ultr
   - SEO for Restaurants  
   - Speed Optimization  
   - Maintenance & Support  
-  - Branding & Logo Design
-- **Portfolio Page** – Case studies, completed projects, results stats, live demos.
+  - Branding & Logo Design  
+- **Portfolio Page** – Case studies, completed projects, results stats, live demos.  
 - **Blog Page** – Tips and strategies for restaurants:  
   - Restaurant Website Tips  
   - Online Ordering Growth Strategies  
   - SEO Tips for Restaurants  
   - Digital Marketing for Food Business  
   - Website Speed & UX Tips  
-  - Industry Trends
+  - Industry Trends  
 - **Contact Page** – Simple, attractive contact form with map integration and CTA.
 
 ---
@@ -82,10 +76,10 @@ This combination allows us to **deliver any type of restaurant website**, from s
 ## 🚀 How to Run Locally
 
 1. **Clone the repo:**
-
 ```bash
 git clone https://github.com/yourusername/restaurantdesign.tech.git
-````
+
+
 
 2. **Install dependencies:**
 
@@ -143,24 +137,15 @@ npm run dev
 
 ---
 
+## 🤝 Contact
 
+Feel free to reach out for collaboration or to discuss your next restaurant website project:
 
----
-
-
-
-```
-
----
-
-এই README.md:
-
-- Attractive এবং professional look  
-- সমস্ত page & component list covered  
-- Tech stack + setup instructions included  
-- CTA links, live demo placeholder  
-- Future enhancement ideas  
-
----
+* Email: [monirislam8426@gmail.com]
+* Phone: +880 1738 003 566
+* Website: [https://monir-islam.netlify.app/]
 
 ```
+
+
+
